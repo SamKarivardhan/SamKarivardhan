@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @SamKarivardhan
+- 👀 I’m interested in the field of Data Science and Artificial Intelligence.
+- 🌱 I’m currently learning Generative AI.
+- 💞️ I’m looking to collaborate on projects related to Data Science and AI.
+- 📫 How to reach me: You can reach out to me using this email: samkarivardhan2511@gmail.com.
+- ⚡ Fun fact: I enjoy solving puzzles and often use that skill to approach complex problems in Data Science.
